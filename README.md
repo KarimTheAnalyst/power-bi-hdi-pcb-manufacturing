@@ -1,7 +1,9 @@
 
 # Power BI: HDI PCB manufacturing analytics dashboard
 
-This repository contains a comprehensive Power BI portfolio project focused on analyzing the manufacturing process of High-Density Interconnect (HDI) Printed Circuit Boards (PCBs). The dashboard provides insights into financial performance, quality control, and operational efficiency.
+This project presents a **manufacturing KPI dashboard** built in Power BI to monitor **quality, yield, and operational performance**.  
+An HDI PCB production scenario is used as a **high-complexity example**, while the dashboard design and analytical logic are **transferable to other manufacturing environments**.
+
 
 **Dashboard pages:**
 1.  **Executive summary:** High-level financial metrics and profit trends.
@@ -115,7 +117,7 @@ Breakdown Rate % = DIVIDE([Total Breakdowns], COUNTROWS(Maintenance), 0)
 
 ---
 
-## 🚀 How to use this repository
+##  How to use this repository
 
 1.  **Clone the repository:** `git clone https://github.com/your-username/power-bi-hdi-manufacturing.git`
 2.  **Open the power BI file:** The `.pbix` file contains the full report.
@@ -168,7 +170,7 @@ Potential improvements for this project:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -178,10 +180,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 I'm always interested in connecting with fellow data professionals and learning from the community!
 
-- **LinkedIn:** 
-- **GitHub:** 
-- **Portfolio:** 
-- **Email:** 
+- **LinkedIn:** www.linkedin.com/in/abdelkarim-mars-152570b5
+- **GitHub:** https://github.com/KarimTheAnalyst 
+- **Email:** karimupds@gmail.com
 
 ---
 
@@ -192,5 +193,8 @@ I'm always interested in connecting with fellow data professionals and learning 
 - **Manufacturing Domain Experts** - For insights into PCB manufacturing processes and KPIs
 
 ---
+
+ Note: The analytical structure and KPIs demonstrated in this dashboard are applicable to a wide range of manufacturing and industrial contexts.
+
 
 ** If you found this project helpful, please consider giving it a star!**
