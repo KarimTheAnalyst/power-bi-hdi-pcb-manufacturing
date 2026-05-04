@@ -11,7 +11,7 @@ An HDI PCB production scenario is used as a **high-complexity example**, while t
 
 This dashboard is built on the SQL-based root cause analysis:
 
-👉 https://github.com/KarimTheAnalyst/HDI-PCB-Root-Cause-SQL
+ https://github.com/KarimTheAnalyst/HDI-PCB-Root-Cause-SQL
 
 - SQL is used to structure data, calculate KPIs, and identify patterns
 - Power BI is used to visualize performance and support decision-making
@@ -85,7 +85,7 @@ While the data is simulated, the data model, DAX measures, and analytical approa
 - Reducing breakdown frequency can improve uptime and overall production stability
 - Monitoring maintenance trends supports better planning and resource allocation
 ---
-## Technical details
+## Implementation Details
 
 ### Project Objectives
 
@@ -93,6 +93,7 @@ While the data is simulated, the data model, DAX measures, and analytical approa
 - Monitor key KPIs including yield, defects, scrap, rework, and maintenance performance
 - Support root cause analysis and process improvement decisions
 - Provide clear visibility into operational efficiency and production stability
+- Use a structured dataset to simulate a realistic HDI PCB manufacturing environment
 
 ### Data Model
 
@@ -200,4 +201,4 @@ I'm always interested in connecting with fellow data professionals and learning 
 - **Manufacturing Domain Experts** - For insights into PCB manufacturing processes and KPIs
 
 ---
-
+This project demonstrates how manufacturing data can be transformed into actionable insights to improve quality, optimize processes, and reduce operational costs.
