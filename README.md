@@ -46,10 +46,10 @@ While the data is simulated, the data model, DAX measures, and analytical approa
 ![Executive Summary](https://private-us-east-1.manuscdn.com/sessionFile/OZ9GS0NtDjJ0n2OGiayvZE/sandbox/jxMN45Q1cOFlXZ93eSlimq-images_1764425186934_na1fn_L2hvbWUvdWJ1bnR1L3BhZ2UxX2V4ZWN1dGl2ZV9zdW1tYXJ5.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvT1o5R1MwTnREakowbjJPR2lheXZaRS9zYW5kYm94L2p4TU40NVExY09GbFhaOTNlU2xpbXEtaW1hZ2VzXzE3NjQ0MjUxODY5MzRfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzQmhaMlV4WDJWNFpXTjFkR2wyWlY5emRXMXRZWEo1LnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=UO6wpvao6VVUYyo2UO~o6AU6PSxUf5Lug~GEUMWptsJi04w3mmEGvp2Eyfvm318~YuHfTm9DmYAEVc49JcTZLIOqen~gcKPxDHRHP~--SqbAnSdLaZ95~Y-PWSSujFQQ~JrLrpCc6wWvmHhe6KrWLdd12SBfQEgNN0g50Vvs5NcSxNxwTZq5g5P25Te0RFD2jK1HOcrfqvSZIjJK3t7dCx9ehPVNnitxKeTVgYDt~eswG8GrppFLheoezrDMNLHQO68wavT0SgIXAU8A7GF~wcVztqxzPG0a7J2qMj5GsBBb36ckr1wc1ZF4KtXAQHn1Te5xb7ZVXJR-eMWq~km39A__)
 
 **Insights:**
-- Overall yield and defect trends provide a quick view of production performance
-- Scrap and rework rates highlight the impact of quality issues on operations
-- Performance trends over time help detect process instability or improvement
-- KPI monitoring supports early identification of production risks
+- Revenue and profit metrics indicate strong overall business performance  
+- High profit margin suggests efficient cost control and operational efficiency  
+- Year-over-year growth reflects increased production volume and business expansion  
+- Trend analysis provides visibility into performance stability over time  
 ---
 
 ### **Page 2: Quality & Root Cause Analysis**  
